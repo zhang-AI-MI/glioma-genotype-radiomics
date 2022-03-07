@@ -30,5 +30,6 @@ construct the predictive model for your task using Bayesian Regularization Neura
 
 # 3 Citation
 If you find it useful for your work, please cite the following work.
+
 Yan, J., Zhang, B., Zhang, S., Cheng, J., Liu, X., Wang, W., ... & Zhang, Z. (2021). Quantitative MRI-based radiomics for noninvasively predicting molecular subtypes and survival in glioma patients. NPJ Precision Oncology, 5(1), 1-9.
 
